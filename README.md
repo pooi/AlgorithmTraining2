@@ -23,3 +23,5 @@ Daily algorithm training
 10. Create Sorted Array through Instructions
 11. Merge Sorted Array
 12. Add Two Numbers
+19. Longest Palindromic Substring
+
