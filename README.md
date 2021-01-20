@@ -24,4 +24,4 @@ Daily algorithm training
 11. Merge Sorted Array
 12. Add Two Numbers
 19. Longest Palindromic Substring
-
+20. Valid Parentheses
