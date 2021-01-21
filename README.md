@@ -25,3 +25,4 @@ Daily algorithm training
 12. Add Two Numbers
 19. Longest Palindromic Substring
 20. Valid Parentheses
+21. Find the Most Competitive Subsequence
